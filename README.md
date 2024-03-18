@@ -9,8 +9,8 @@ and  fetch information about AWS resources and store it in a file named 'resourc
 Ensure that you have the AWS Command Line Interface (CLI) installed and configured on your system. The script utilizes AWS CLI commands to fetch information about AWS resources.
 ### jq:
 The script uses jq command-line JSON processor to parse and format JSON output from AWS CLI commands. Make sure jq is installed on your system.
-### Notes:###
+### Notes:
 This script provides a basic overview of AWS resource usage and may need to be customized or extended based on specific requirements.
-### project Link:###
+### project Link:
 https://github.com/dangesumedh/shell_scripting_projects/blob/main/resource_tracker.txt
 
